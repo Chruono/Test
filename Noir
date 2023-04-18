@@ -36,7 +36,7 @@
   /*
     Home Icon Image
   */
-  --home-icon-image: url(https://i.imgur.com/K5x6V7A.jpg);
+  --home-icon-image: url(https://i.pinimg.com/564x/9f/d2/c2/9fd2c28d09ef060b79724fb0a3dc8dd4.jpg);
 
   /*
     Change your friends icon image position
